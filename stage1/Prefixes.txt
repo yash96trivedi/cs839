@@ -1,0 +1,134 @@
+1st Lt
+Adm
+Atty
+Brother
+Capt
+Chief
+Cmdr
+Col
+Dean
+Dr
+Elder
+Father
+Gen
+Gov
+Hon
+Lt Col
+Maj
+MSgt
+Mr
+Mrs
+Ms
+Prince
+Prof
+Rabbi
+Rev
+Sister
+Sir
+Sri
+Thiru
+King
+Queen
+Princess
+Dr.
+Drs.
+Dr. and Mrs.
+Duke
+Ensign
+Estate of
+Friar
+Frau
+General
+Governor
+Judge
+Justice
+Lord
+Lieutenant
+2nd Lieutenant (Army)
+2nd Lieutenant (Marine/A.F.)
+Lieutenant Commander
+Lieutenant Colonel
+Lieutenant General
+Lieutenant junior grade
+Mademoiselle
+Major
+Master
+Master Sergeant
+Miss
+Madame
+Midshipman
+Monsieur
+Monsignor
+Mr.
+Mr. & Dr.
+Mr. & Mrs.
+Mrs.
+Ms.
+Mx.
+President
+Professor
+Prof. & Mrs.
+Rear Admiral
+Representative
+Reverend
+Reverends
+Right Reverend
+Sergeant
+Senator
+Senor
+Senora
+Senorita
+Sheikh
+Staff Sergeant
+The Honorable
+The Venerable
+Trust(ees)of
+Vice Admiral
+Adm.
+Amb.
+Brnss.
+Brig. Gen. or BG
+Br.
+Cpt.
+Capt.
+Chan.
+Chapln.
+CPO
+Cmdr. or CDR or Cdr. (U.K.)
+Col.
+Col. (Ret.)
+Cpl.
+Cntss.
+Ens.
+Fr.
+Gen.
+Gov.
+Lt.
+2Lt.
+2dLt.
+Lt. Cmdr. or Ltc.
+Lt. Col. or Ltc.
+Lt. Gen. or Ltg.
+Lt. j.g.
+Mlle.
+Maj.
+Master Sgt.
+Mme.
+MIDN
+M.
+Msgr.
+Pres.
+Prof.
+R.Adm.
+Rep.
+Rev.
+Revs.
+Rt.Rev.
+Sgt.
+Sen.
+Sr.
+Sra.
+Srta.
+S. Sgt.
+The Hon.
+V.Adm.
