@@ -1,0 +1,95 @@
+Table A - 3788 tuples
+
+name - player name
+full name - player full name
+overall	- overall rating
+club - football club
+league - football league
+nation - player nationality	
+age - player age
+height - player height (cm)	
+weight - player weight (kg)
+foot - preferred foot
+pac - player pace rating
+acceleration - player acceleration rating
+sprint speed - player sprint speed rating
+dri - player overall dribbling rating
+agility	- player agility rating
+balance	- player balance rating
+reactions - player reactions rating
+ball control - player ball control rating
+dribbling - player dribbling rating
+composure - player composure rating
+sho - player shooting rating
+positioning - player positioning rating	
+finishing - player finishing rating	
+shot power - player shot power rating
+long_shots - player long shots rating
+volleys - player volleys rating
+penalties - player penalties rating
+defending - player defending rating
+interceptions - player interceptions rating
+heading accuracy - player heading accuracy rating
+marking - player marking rating
+standing tackle - player standing tackle rating	
+sliding tackle - player sliding tackle rating
+pas - player passing rating
+vision - player vision rating
+crossing - player crossing rating
+free kick accuracy - player free kick accuracy rating
+short passing - player short passing rating
+long passing - player long passing rating
+curve - player shot curve rating
+phy - player physicality rating
+jumping - player jumping rating
+stamina - player stamina rating
+strength - player strength rating
+aggression - player aggression rating
+
+Table B - 9724 tuples
+
+name - player name
+full_name - player full name
+club - football club
+league - football league
+position - player position
+strong foot - player preferred foot
+nation - player nationality
+overall	- overall rating
+reactions - player reactions rating
+positioning - player positioning rating
+penalties - player penalties rating
+height - player height (cm)	
+long passing - player long passing rating
+standing tackle - player standing tackle rating
+ball control - player ball control rating
+interceptions - player interceptions rating
+acceleration - player acceleration rating
+marking - player marking rating
+strength - player strength rating
+free kick - player free kick accuracy rating
+composure - player composure rating
+dribbling - player dribbling rating
+stamina - player stamina rating
+pac - player pace rating
+aggression - player aggression rating
+agility	- player agility rating
+volleys	- player volleys rating
+sprint speed - player sprint speed rating
+phy - player physicality rating
+pas - player passing rating
+long shots - player long shots rating
+short passing -	player short passing rating
+dob - player date of birth
+shot power - player shot power rating
+age - player age
+curve - player shot curve rating
+dri - player overall dribbling rating
+jumping	- player jumping rating
+vision - player vision rating
+crossing - player crossing rating
+finishing - player finishing rating
+balance - player balance rating
+heading - player heading rating
+def - player defending rating
+sho - player shooting rating
